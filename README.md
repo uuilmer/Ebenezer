@@ -7,3 +7,5 @@
 * @uuilmer
 
 This is a simple website application for "Iglesia de Dios Ebenezer" based in Snellville, Georgia.
+
+React Frontend with [TBD] backend.
